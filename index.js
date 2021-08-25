@@ -1,1 +1,3 @@
-export const hello = () => "world";
+const { initialize } = require("./use-thing");
+
+initialize();
