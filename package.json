@@ -1,0 +1,19 @@
+{
+  "name": "jest-mocking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0",
+    "babel-jest": "^27.0.6",
+    "cross-env": "^7.0.3",
+    "jest": "^27.0.6"
+  }
+}
